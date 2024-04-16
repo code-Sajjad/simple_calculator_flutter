@@ -1,16 +1,12 @@
-# simple_calculator_day1
+# simple_calculator_flutter
 
-A new Flutter project.
+A Fully functional Simple Calculator built within Flutter on Day 1 of the 30-day Coding Challenge.
 
-## Getting Started
+![Day 1 1-01](https://github.com/code-Sajjad/simple_calculator_flutter/assets/56497715/9854e961-ae2f-4d4a-b917-21b48f22fbed)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Follow along to Complete 30 Days of Coding Challenge
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This is basically a 30 day of coding challenge in Flutter where we have to build an app each day starting from very basic apps such as a calculator to advanced apps like chatting apps, video conferencing, etc.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Follow along to complete the 30 days coding challenge.
