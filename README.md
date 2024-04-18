@@ -9,4 +9,4 @@ A Fully functional Simple Calculator built within Flutter on Day 1 of the 30-day
 
 This is basically a 30 day of coding challenge in Flutter where we have to build an app each day starting from very basic apps such as a calculator to advanced apps like chatting apps, video conferencing, etc.
 
-Follow along to complete the 30 days coding challenge.
+Follow along to complete the 30 days coding challenge!
